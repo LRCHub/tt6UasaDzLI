@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "木漏れ日と一緒に(BUMP OF CHICKEN TOUR 2024 Sphery Rendezvous at The Kanazawa Theatre)",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-11T05:53:09.837329Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "木漏れ日と一緒に(BUMP OF CHICKEN TOUR 2024 Sphery Rendezvous at The Kanazawa Theatre)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_木漏れ日と一緒に(BUMP_OF_CHICKEN_TOUR_2024_Sphery_Rendezvous_at_The_Kanazawa_Theatre)_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
